@@ -143,7 +143,9 @@ Explanation:
 ---
 
 ## Task 2: Data Cleaning, Returns, and Visualization
-
+```
+data_2 = read.csv('lab1.csv')
+```
 ### (1) Rename column and change date format
 
 ```r

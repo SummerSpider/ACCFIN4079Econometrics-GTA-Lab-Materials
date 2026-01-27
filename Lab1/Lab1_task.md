@@ -140,13 +140,6 @@ write.csv(data, file = "/Users/.../new_data.csv")
 Explanation:
 - `write.csv()` saves the data frame as a CSV file.
 
-```r
-write_xlsx(data, file = "/Users/.../new_data.xlsx")
-```
-
-Explanation:
-- `write_xlsx()` saves the data frame as an Excel file.
-
 ---
 
 ## Task 2: Data Cleaning, Returns, and Visualization
